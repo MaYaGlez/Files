@@ -89,7 +89,7 @@
     <Placemark>
       <name>MESA COLORADA ORIENTE</name>
 	  <id>'58484'</id>
-	  <Snippet>58484</Snippet>
+	  <snippet>58484</snippet>
       <description><![CDATA[MESA COLORADA ORIENTE    <br>       <br>   FID   1    <br>   ID   103    <br>   ENTIDAD   14    <br>   MUNICIPIO   120    <br>   NOMBRE   MESA COLORADA ORIENTE    <br>   CLASIFICAC   1    <br>   CP   45205    <br>   OTROS_CP       <br>   CONTROL   103    <br>   OID_1   98]]></description>
       <styleUrl>#poly-0288D1-301-18</styleUrl>
       <Polygon>
