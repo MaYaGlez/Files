@@ -36,9 +36,10 @@
     </StyleMap>
     <Placemark>
       <name>LOMA EL PEDREGAL</name>
-      <description><![CDATA[LOMA EL PEDREGAL    <br>       <br>   FID   0    <br>   ID   101    <br>   ENTIDAD   14    <br>   MUNICIPIO   120    <br>   NOMBRE   LOMA EL PEDREGAL    <br>   CLASIFICAC   1    <br>   CP   45205    <br>   OTROS_CP       <br>   CONTROL   101    <br>   OID_1   96]]></description>
-      <snippet>Hola</snippet>
-	  <styleUrl>#poly-0288D1-301-18</styleUrl>
+	  <id>58484</id>
+	  <Snippet>58484</Snippet>
+      <description>Hola</description>
+      <styleUrl>#poly-0288D1-301-18</styleUrl>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
